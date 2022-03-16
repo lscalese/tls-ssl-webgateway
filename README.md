@@ -1,8 +1,8 @@
 # tls-ssl-webgateway
 
-This is a simple script to build a docker image in order to use Intersystems Webgateway with HTTPS ans SSL\TLS support with IRIS instance.  
+This is a simple script to build a docker image in order to use Intersystems Webgateway with HTTPS and SSL\TLS support with IRIS instance.  
 
-This small project is dependence for : 
+This small project is a dependence for : 
 
  * [iris-mirroring-with-webgateway](https://github.com/lscalese/iris-mirroring-with-webgateway)
 
