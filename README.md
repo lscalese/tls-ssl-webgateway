@@ -16,3 +16,6 @@ docker login -u="YourWRCLogin" -p="YourPassWord" containers.intersystems.com
 docker pull containers.intersystems.com/intersystems/webgateway:2021.1.0.215.0
 docker build --no-cache -t tls-ssl-webgateway .
 ```
+# Links
+
+A sample is available on [docker-webgateway-sample](https://github.com/lscalese/docker-webgateway-sample) repository.  
